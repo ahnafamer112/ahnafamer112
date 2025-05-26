@@ -4,7 +4,8 @@
 **ahnafamer112/ahnafamer112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.  
 -->
 
-- 🔭 I’m currently working on a **analyzing Black Hole Candidates from Public Astronomical Datasets such as NASA's Chandra X-ray Observatory, ESA's XMM-Newton, and Sloan Digital Sky Survey (SDSS)**.  
+- 🔭 I’m currently working on creating an **App which predicts if the sky will be clear for astronomical sightseeing and what celestial objects will be visible depending on your location**.
+- 🎮 I’m also working on making a story-driven emotional game where the journey explores memory, regret, and cosmic themes. 
 - 🌱 I’m currently learning **machine learning for astrophysics** and **advanced statistical methods**.  
 - 👯 I’m looking to collaborate on **astronomy research projects** or **software development for scientific applications**.  
 - 🤔 I’m looking for help with **finding summer research opportunities in observational astrophysics**.  

@@ -4,7 +4,7 @@
 **ahnafamer112/ahnafamer112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.  
 -->
 
-- 🔭 I’m currently working on creating an **App which predicts if the sky will be clear for astronomical sightseeing and what celestial objects will be visible depending on your location**.
+- 🔭 I’m currently working on SkySort: a machine learning project that classifies stars, quasars, and galaxies using Sloan Digital Sky Survey (SDSS) data.
 - 🎮 I’m also working on making a story-driven emotional game where the journey explores memory, regret, and cosmic themes. 
 - 🌱 I’m currently learning **machine learning for astrophysics** and **advanced statistical methods**.  
 - 👯 I’m looking to collaborate on **astronomy research projects** or **software development for scientific applications**.  
